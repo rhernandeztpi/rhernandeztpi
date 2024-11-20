@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
 <img src="https://www.creativefabrica.com/wp-content/uploads/2021/06/14/Software-Developer-Flat-Icon-Graphics-13375448-1.jpg" align="center" style="width: 100%" />
 </div>  
   
@@ -155,7 +155,3 @@ If things goes well, this section should automatically be replaced by a list of 
 </div>  
   
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-](https://dev.to/rhernandeztpi)
