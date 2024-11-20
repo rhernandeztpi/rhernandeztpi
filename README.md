@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.creativefabrica.com/wp-content/uploads/2021/06/14/Software-Developer-Flat-Icon-Graphics-13375448-1.jpg" align="center" style="width: 100%" />
+<img src="https://cdn-icons-png.freepik.com/512/6062/6062646.png" align="center" style="width: 100%" />
 </div>  
   
 
