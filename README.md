@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ricardo H. Islas, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">I'm Ricardo H. Islas, a full-time full-stack  developer 👨‍💻 working  since 2017 🚀</div>  
   
 
 - 🔭 I’m currently working on [Dev.to](https://dev.to/rhernandeztpi)  
